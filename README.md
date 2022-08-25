@@ -1,8 +1,8 @@
 ### Olá!!
 
-##Procurando por emprego na área de desenvolvimento!
+## Procurando por emprego na área de desenvolvimento!
 
-- 🔭 Atualmente estou desenvolvendo meu Portfolio, você pode acessá-lo em [Portfolio] (https://eduarda-monteblanco.github.io/portfolio/)
+- 🔭 Atualmente estou desenvolvendo meu Portfolio, você pode acessá-lo em [Portfolio](https://eduarda-monteblanco.github.io/portfolio/)
 - 🌱 Atualmente estou aprendendo NodeJs
 - 👯 Estou procurando colaborar em projetos Python3
 - 💬 Pergunte-me sobre Python!
